@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a104054 aka Richard Harrington
 - 👀 I’m interested in Software Quality Assurance
-- 🌱 I’m currently learning Snowflake
+- 🌱 I’m currently learning Snowflake and OSCP
 - 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me richard_a_harrington@progressive.com
 
